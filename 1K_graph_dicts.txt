@@ -2,3 +2,5 @@ https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_113_ra
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_137_range_16.zip
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_141_range_32.zip
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_147_range_64.zip
+https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_211_range_256.zip
+https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_307_range_512.zip
