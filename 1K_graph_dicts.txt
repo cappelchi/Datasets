@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_141_ra
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_147_range_64.zip
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_211_range_256.zip
 https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_307_range_512.zip
+https://raw.githubusercontent.com/cappelchi/Datasets/master/1K_graph_seed_179_range_1024.zip
